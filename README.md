@@ -1,2 +1,11 @@
 # CatBud Wiki
-A wiki that helps player who playing catbud
+
+關於貓芽沒有wiki的部分
+~~預計要很久才會寫好 應該吧~~
+
+## 預計要做的類別
+
+- 選單/功能
+- 指令
+- 物品/方塊
+- 有待擴充...
