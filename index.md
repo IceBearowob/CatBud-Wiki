@@ -1,5 +1,12 @@
 # 目錄
 
-## 指令
+## 功能
 
-[/sale](/command/sale.md)
+### 貓芽Discord群組
+
+[/sale](/functions/discord/sale.md)
+[Discord應用程式功能](/functions/discord/discordapp-player.md)
+
+## 模式
+
+[休閒跑酷](/modes/leisure_parkour.md)
