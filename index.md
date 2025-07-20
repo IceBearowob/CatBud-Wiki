@@ -4,7 +4,7 @@
 
 ### 貓芽Discord群組
 
-[/sale](/functions/discord/sale.md)
+[/sale](/functions/discord/sale.md)  
 [Discord應用程式功能](/functions/discord/discordapp-player.md)
 
 ## 模式
