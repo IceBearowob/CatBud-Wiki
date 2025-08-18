@@ -1,12 +1,18 @@
 # 目錄
 
+還在製作中，目前包含功能、模式、攻略類別
+
 ## 功能
 
 ### 貓芽Discord群組
 
-[/sale](/functions/discord/sale.md)  
-[Discord應用程式功能](/functions/discord/discordapp-player.md)
+[/sale](/functions/sale.md)  
+[Discord應用程式功能](/functions/discord/player.md)
 
 ## 模式
 
 [休閒跑酷](/modes/leisure_parkour.md)
+
+## 攻略
+
+[傳送列表](/guides/to_list.md)

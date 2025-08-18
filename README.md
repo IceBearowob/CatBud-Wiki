@@ -1,18 +1,17 @@
 # CatBud Wiki
 
-關於貓芽沒有wiki的部分  
-~~預計要很久才會寫好 應該吧~~  
-~~畢竟連markdown都還不太會寫 欸黑~~  
+關於貓芽沒有wiki的部分，還在製作中
 
-## 預計要做的類別
+## 目錄
 
-- 選單/功能
-- 指令
-- 物品/方塊
-- 有待擴充...
+在這裡-->[**目錄**](/index.md)
 
 ## 貓芽伺服器
 
-伺服器版本: 1.21.6~1.21.7  
+伺服器版本: 1.21.6~1.21.8  
 伺服器IP: catbud.net  
-Discord連接: <https://discord.gg/catbud>  
+Discord連接: <https://discord.gg/catbud>
+
+## 預計製作
+
+- 特附
