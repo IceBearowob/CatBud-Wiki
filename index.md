@@ -6,8 +6,9 @@
 
 ### 貓芽Discord群組
 
-[/sale](/functions/sale.md)  
-[Discord應用程式功能](/functions/discord/player.md)
+[線上販賣](/functions/sale.md)  
+[玩家資料與玩家統計查詢](/functions/discord/player.md)
+[任務](/functions/task.md)
 
 ## 模式
 
