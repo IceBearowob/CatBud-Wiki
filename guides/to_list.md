@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/8/17
+> 最後更新日期:2025/8/18
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
@@ -14,12 +14,12 @@
 |/to by Darlingg02|公共眼淚塔|
 |/to by Lyme_5837|萊姆村|
 |/to by YuanHua0707|地圖繪展覽館|
-|/to by Mikki15625|各種抽獎機(應該大多是圖繪)|
+|/to by Mikki15625|貓幣/圖繪抽獎機|
 |/to by MatchMan_qwq|鑽石賭場|
 |/to by whitebear520|蒼白花園傳點|
-|/to by Lulu_8888|-256虛空|
+|/to by Lulu_8888|沙漠|
 |/to by Henry86420|龍封家(15+地圖繪展示區)|
-|/to by SYLJ0422|公用小黑exp塔|
+|/to by SYLJ0422|世界重生點(0,0)\[*可能近期會更改]|
 |/to by Pinhong0320|喵方旅團的私人設施群|
 |/to by Deepblue2003|公共交易所|
 |/to by weichen0905|原又贏畫間|
@@ -38,8 +38,7 @@
 |/to by Ying1022u|村民交易所(和Deepblue2003是同一個點)|
 |/to by YUQUANG1|沙漠|
 |/to by BlueRiver1214|神樹市集|
-|/to by Eason03|公共小黑exp塔(與SYLJ0422位置相同)|
-|/to by leopardprint|豹紋家|
+|/to by Eason03|公共小黑exp塔|
 |/to by TangAir|甘蔗+火藥塔+滿傷煙火製造機|
 
 ## Q&A
