@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/8/18
+> 最後更新日期:2025/8/21
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
@@ -38,8 +38,9 @@
 |/to by Ying1022u|村民交易所(和Deepblue2003是同一個點)|
 |/to by YUQUANG1|沙漠|
 |/to by BlueRiver1214|神樹市集|
-|/to by Eason03|公共小黑exp塔|
+|/to by Eason03|03的公共小黑exp塔|
 |/to by TangAir|甘蔗+火藥塔+滿傷煙火製造機|
+|/to by WuNight_0310|03的小黑exp塔(一樣的點)|
 
 ## Q&A
 
