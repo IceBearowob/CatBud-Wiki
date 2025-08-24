@@ -33,11 +33,12 @@
 |/to by Ying1022u|Pure村民交易所|
 |/to by YUQUANG1|沙漠|
 |/to by BlueRiver1214|神樹市集|
-|/to by Eason03|03的公共小黑exp塔|
-|/to by WuNight_0310|03的小黑exp塔|
+|/to by Eason03|03安德塔|
+|/to by WuNight_0310|03安德塔|
 |/to by NekoFumi_YuYu|mikki抽獎機(由幽幽代理)|
 |/to by Big_Gacha|沙漠|
 |/to by Eagle500kgPure|Pure村民交易所|
+|/to by DaiDai_66|Pure安德塔|
 
 ## Q&A
 
