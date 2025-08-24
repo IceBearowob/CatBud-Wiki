@@ -4,19 +4,15 @@
 
 ## 傳點列表
 
-### 緊急更新:因為部分公傳點遭到破壞而被撤下
-
-> 最後更新日期:2025/8/23
+> 最後更新日期:2025/8/24
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
 |/to by _Coffee_Fubuki|FBK王國|
 |/to by limisi|掛機用小黑搬西瓜塔|
-|/to by Darlingg02|公共眼淚塔(遭到爆破)|
-|/to by Lyme_5837|萊姆村(月卡失效)|
-|/to by YuanHua0707|地圖繪展覽館(月卡失效)|
-|/to by Mikki15625|貓幣/圖繪抽獎機|
-|/to by MatchMan_qwq|火柴工業區|
+|/to by Darlingg02|公共眼淚塔|
+|/to by YuanHua0707|地圖繪展覽館|
+|/to by Mikki15625|mikki抽獎機|
 |/to by whitebear520|蒼白花園傳點|
 |/to by Lulu_8888|沙漠|
 |/to by Henry86420|龍封家(15+地圖繪展示區)|
@@ -33,12 +29,15 @@
 |/to by smallblack7124|小黑家|
 |/to by Maxender55421|安德家|
 |/to by SunaChen|燕麥家|
-|/to by Tom87906|Majiren安德塔(遭到爆破)|
+|/to by Tom87906|Majiren安德塔(已消失，傳點為虛空)|
 |/to by Ying1022u|Pure村民交易所|
 |/to by YUQUANG1|沙漠|
 |/to by BlueRiver1214|神樹市集|
 |/to by Eason03|03的公共小黑exp塔|
 |/to by WuNight_0310|03的小黑exp塔|
+|/to by NekoFumi_YuYu|mikki抽獎機(由幽幽代理)|
+|/to by Big_Gacha|沙漠|
+|/to by Eagle500kgPure|Pure村民交易所|
 
 ## Q&A
 
@@ -53,5 +52,6 @@
 
 ### 無法傳送?
 
-設立公共傳點的玩家需要月卡在有效期間，傳點才有效  
-~~所以該敲人續月卡了吧~~
+有可能是設置傳點的玩家自行撤除  
+或者是該玩家的月卡失效  
+可以適當詢問對方 ~~或者敲人上來補月卡了~~
