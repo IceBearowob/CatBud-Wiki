@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/8/24
+> 最後更新日期:2025/8/27
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
@@ -12,7 +12,6 @@
 |/to by limisi|掛機用小黑搬西瓜塔|
 |/to by Darlingg02|公共眼淚塔|
 |/to by YuanHua0707|地圖繪展覽館|
-|/to by Mikki15625|mikki抽獎機|
 |/to by whitebear520|蒼白花園傳點|
 |/to by Lulu_8888|沙漠|
 |/to by Henry86420|龍封家(15+地圖繪展示區)|
@@ -39,6 +38,8 @@
 |/to by Big_Gacha|沙漠|
 |/to by Eagle500kgPure|Pure村民交易所|
 |/to by DaiDai_66|Pure安德塔|
+|/to by Fengwa1007|貓芽公共社交中心|
+|/to by hhklly|PVP活動場|
 
 ## Q&A
 
