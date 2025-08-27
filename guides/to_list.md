@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/8/27
+> 最後更新日期:2025/8/28
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
@@ -15,20 +15,20 @@
 |/to by whitebear520|蒼白花園傳點|
 |/to by Lulu_8888|沙漠|
 |/to by Henry86420|龍封家(15+地圖繪展示區)|
-|/to by SYLJ0422|世界重生點(0,0)|
+|/to by SYLJ0422|杏仁3D圖場|
 |/to by Pinhong0320|喵方旅團的私人設施群|
 |/to by Deepblue2003|Pure公共交易所|
 |/to by weichen0905|原又贏畫間|
 |/to by Ochite_Miro|森息家|
-|/to by weiwei0829|主世界的終界傳送門|
+|/to by weiwei0829|終界傳送門|
 |/to by xiao\_7_|公共豬人塔|
 |/to by Bless_Y|小李抽獎機|
-|/to by hohomcraft|主世界的終界傳送門|
+|/to by hohomcraft|終界傳送門|
 |/to by ianchen0064|地獄堡壘|
-|/to by smallblack7124|小黑家|
+|/to by smallblack7124|XxszkoilxX家(?|
 |/to by Maxender55421|安德家|
 |/to by SunaChen|燕麥家|
-|/to by Tom87906|Majiren安德塔(已消失，傳點為虛空)|
+|/to by Tom87906|女巫塔|
 |/to by Ying1022u|Pure村民交易所|
 |/to by YUQUANG1|沙漠|
 |/to by BlueRiver1214|神樹市集|
@@ -38,8 +38,11 @@
 |/to by Big_Gacha|沙漠|
 |/to by Eagle500kgPure|Pure村民交易所|
 |/to by DaiDai_66|Pure安德塔|
-|/to by Fengwa1007|貓芽公共社交中心|
+|/to by Fengwa1007|非官方貓芽大廳|
 |/to by hhklly|PVP活動場|
+|/to by Ghost_Sister|非官方貓芽大廳|
+|/to by NiceDumpling|平原...?|
+|/to by xuann0805|世界出生點|
 
 ## Q&A
 
