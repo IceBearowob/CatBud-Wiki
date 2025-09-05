@@ -20,7 +20,7 @@
 |遊玩怪物浪潮並擊殺boss|20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+80 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
 |遊玩魔幻之塔|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
 |公共頻道聊天|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|線上累計時長|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+20<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|線上累計時長|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
 
 ## 更新紀錄
 
