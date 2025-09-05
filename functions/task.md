@@ -4,7 +4,7 @@
 
 ## 任務介紹
 
-貓芽內最主要獲得![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)和![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)的方法  
+貓芽內最主要獲得<span class="currency"></span>和<span class="rank"></span>的方法  
 任務每日00:00(UTC+8)刷新  
 一般玩家每日2個任務，月卡玩家每日3個任務，可能刷到重複的任務
 
@@ -12,15 +12,15 @@
 
 |任務名稱|任務獎勵|
 |:---:|:---:|
-|完成休閒跑酷|30![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+120![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|完成方舟生存|40![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+160![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|遊玩空降戰域|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|遊玩空降戰域並排名於前半段|20![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+80![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|遊玩怪物浪潮|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|遊玩怪物浪潮並擊殺boss|20![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+80![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|遊玩魔幻之塔|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|公共頻道聊天|5![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+20![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
-|線上累計時長|5![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+20![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|完成休閒跑酷|30 <span class="currency"></span> + 120 <span class="rank"></span>|
+|完成方舟生存|40 <span class="currency"></span> + 160 <span class="rank"></span>|
+|遊玩空降戰域|10 <span class="currency"></span> + 40 <span class="rank"></span>|
+|遊玩空降戰域並排名於前半段|20 <span class="currency"></span> + 80 <span class="rank"></span>|
+|遊玩怪物浪潮|10 <span class="currency"></span> + 40 <span class="rank"></span>|
+|遊玩怪物浪潮並擊殺boss|20 <span class="currency"></span> + 80 <span class="rank"></span>|
+|遊玩魔幻之塔|10 <span class="currency"></span> + 40 <span class="rank"></span>|
+|公共頻道聊天|5 <span class="currency"></span> + 20 <span class="rank"></span>|
+|線上累計時長|5 <span class="currency"></span> + 20<span class="rank"></span>|
 
 ## 更新紀錄
 
@@ -36,3 +36,25 @@
 |r4-b59|將城堡戰爭系列任務改為空降戰域|
 |r5-b01|新增任務「完成休閒跑酷」|
 |r5-b02|任務「完成休閒跑酷」的獎勵下調|
+
+<!--塞圖片定義的地方-->
+<!-- markdownlint-disable-file MD033 -->  
+<style>
+:root {
+  --currency: url('https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true');
+  --rank: url('https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true');
+  --width: 18px;
+  --height: 18px;
+}
+
+.currency {
+  width: var(--width);
+  height: var(--height);
+  content: var(--currency);
+}
+.rank {
+  width: var(--width);
+  height: var(--height);
+  content: var(--rank);
+}
+</style>
