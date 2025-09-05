@@ -2,6 +2,9 @@
 
 在地圖內向前躍過重重阻礙，任何成員抵達終點即全隊通關!
 
+<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/check.png?raw=true" width="18" height="18"/> 結束後會將所有資料恢復成參加前的狀態  
+<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/mob/steve.png?raw=true" width="18" height="18"/> 最多4人同時闖關
+
 ## 模式玩法與介紹
 
 在地圖內跑酷並尋找撤離點，抵達撤離點就通關
@@ -17,11 +20,6 @@
 
 每次進入休閒跑酷時，會隨機選擇其中1張地圖來開始
 
-### 注意事項
-
-1. 結束後會將所有資料恢復成參加前的狀態
-2. 最多4人同時闖關
-
 ## 其他
 
 1. 有計時器，精確到秒(遠離出生點4格以上才開始計時)
@@ -35,3 +33,4 @@
 |:---:|:---:|
 |r5-b01|新增休閒跑酷|
 |r5-b13|禁止與容器互動，計時方法更新|
+<!-- markdownlint-disable-file MD033 MD045 -->  
