@@ -11,16 +11,16 @@
 ## 任務列表
 
 |任務名稱|任務獎勵|
-|:---:|:---:|
-|完成休閒跑酷|30 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 120 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|完成方舟生存|40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 160 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|遊玩空降戰域|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|遊玩空降戰域並排名於前半段|20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 80 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|遊玩怪物浪潮|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|遊玩怪物浪潮並擊殺boss|20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 80 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|遊玩魔幻之塔|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|公共頻道聊天|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
-|線上累計時長|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/> + 20<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|:---:|----|
+|完成休閒跑酷|30 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+120 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|完成方舟生存|40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+160 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|遊玩空降戰域|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|遊玩空降戰域並排名於前半段|20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+80 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|遊玩怪物浪潮|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|遊玩怪物浪潮並擊殺boss|20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+80 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|遊玩魔幻之塔|10 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+40 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|公共頻道聊天|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+20 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
+|線上累計時長|5 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true" width="18" height="18"/>+20<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true" width="18" height="18"/>|
 
 ## 更新紀錄
 
@@ -36,4 +36,4 @@
 |r4-b59|將城堡戰爭系列任務改為空降戰域|
 |r5-b01|新增任務「完成休閒跑酷」|
 |r5-b02|任務「完成休閒跑酷」的獎勵下調|
-<!-- markdownlint-disable-file MD033 MD045 -->  
+<!-- markdownlint-disable-file MD033 MD045 -->
