@@ -5,7 +5,9 @@
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/check.png?raw=true" width="18" height="18"/> 結束後會將所有資料恢復成參加前的狀態  
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/mob/steve.png?raw=true" width="18" height="18"/> 最多4人同時闖關
 
-## 模式玩法與介紹
+<img src="https://cdn.discordapp.com/attachments/1278590591734779904/1393730483522633869/a.png?ex=68bb6d29&is=68ba1ba9&hm=caee4db74506344828e7aa2f01b5315e28a17d892284e6d4b39da3cbc00d9b08&" width="558" height="153"/>
+
+## 模式介紹
 
 在地圖內跑酷並尋找撤離點，抵達撤離點就通關
 
@@ -23,9 +25,9 @@
 ## 其他
 
 1. 有計時器，精確到秒(遠離出生點4格以上才開始計時)
-2. 完成跑酷會廣播通知所有人，可以在/config關閉顯示通知
-3. 完成跑酷會寄信給通關的人，信內包含通關時間
-4. 此模式沒有任何獎勵
+2. 完成跑酷會廣播通知，如果不想看到可以在/config暫時屏蔽廣播通知
+3. 完成跑酷會寄信給通關的那一個人，信內包含通關時間
+4. 除了任務外，完成此模式沒有任何獎勵
 
 ## 更新紀錄
 
