@@ -2,21 +2,21 @@
 
 ## [特殊附魔](./enchantments/index.md)
 
-||
+|特附名稱|
 |:---:|
 |[不滅](./enchantments/eternal.md)|
 |[無限耐久](./enchantments/infinite_durability.md)|
 
 ## [模式](./modes/index.md)
 
-||
+|模式名稱|
 |:---:|
 |[周年快樂](./modes/happy_anniversary.md)|
 |[休閒跑酷](./modes/leisure_parkour.md)|
 
-## [攻略/教學](./guides/index.md)
+## [攻略/教學/統整資料](./guides/index.md)
 
-||
+|資料名稱|
 |:---:|
 |[敲裝資訊-特附細節篇](./guides/anvil_enchbook.md)|
 |[傳點列表](./guides/to_list.md)|
