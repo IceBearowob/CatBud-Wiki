@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/8/30
+> 最後更新日期:2025/9/5
 
 ### 公共設施
 
@@ -31,7 +31,6 @@
 |/to by weiwei0829|終界傳送門|
 |/to by hohomcraft|終界傳送門|
 |/to by ianchen0064|地獄堡壘|
-|/to by YUQUANG1|沙漠|
 |/to by xuann0805|世界出生點|
 |/to by NiceDumpling|平原...?|
 |/to by Big_Gacha|沙漠|
@@ -43,7 +42,6 @@
 |/to by YuanHua0707|地圖繪展覽館|
 |/to by weichen0905|原又贏畫間|
 |/to by Fengwa1007|非官方貓芽大廳|
-|/to by Ghost_Sister|非官方貓芽大廳|
 |/to by hhklly|PVP活動場|
 |/to by TMO_friedchicken|PVP活動場|
 |/to by _Coffee_Fubuki|FBK王國|
@@ -55,6 +53,7 @@
 |/to by Bless_Y|小李抽獎機|
 |/to by BlueRiver1214|神樹市集|
 |/to by NekoFumi_YuYu|mikki抽獎機(由幽幽代理)|
+|/to by Ghost_Sister|地圖繪租借場|
 
 ### 其他
 
@@ -66,6 +65,10 @@
 |/to by SunaChen|燕麥家|
 |/to by Maxender55421|安德家|
 |/to by smallblack7124|XxszkoilxX家(?|
+|/to by Tyoyoug|超級小白屋|
+|/to by cake_apostle|♂神祕的地方♂|
+|/to by chair8_|沉屍塔|
+|/to by wang990830|Tofu家|
 
 ## Q&A
 
