@@ -11,12 +11,12 @@
 
 <img src="https://cdn.discordapp.com/attachments/1278590591734779904/1413320997519495310/aaaaaaaaaaaaaaaaaaa.png?ex=68bb8140&is=68ba2fc0&hm=8540e88800988f8030defb3f8554c6c1a40153c0f7a069f527c6c70de4f5545b&" width="558" height="153"/>
 
-## 模式玩法與介紹
+## 模式介紹
 
 所有玩家在一張地圖內，有20秒的準備時間可以觀察地形，然後在初始點出發  
-你要做的就是在5分鐘內盡可能開驚喜盒(問號方塊)，裡面可能會有...
+你要做的就是在5分鐘內盡可能開驚喜盒<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/block/custom/surprise_box.png?raw=true" width="25" height="25"/>，裡面可能會有...
 
-- 1~3金幣
+- 1~3金幣<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/custom/coin_of_anniversary.png?raw=true" width="18" height="18"/>
 - 16顆風彈
 - 8顆終界珍珠
 - 飛濺迅捷藥水II
@@ -31,6 +31,7 @@
 1. 每個玩家頭上會有彩色頭帶
 2. 有可能掉進去跳不出來的坑...
 3. 周年慶當周每天晚上9:30開始活動(待確定)
+4. 組隊參加並不會平分貓幣，每個人獨立計算
 
 ## 更新紀錄
 
