@@ -16,7 +16,7 @@
 所有玩家在一張地圖內，有20秒的準備時間可以觀察地形，然後在初始點出發  
 你要做的就是在5分鐘內盡可能開驚喜盒<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/block/custom/surprise_box.png?raw=true" width="25" height="25"/>，裡面可能會有...
 
-- 1~3金幣<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/custom/coin_of_anniversary.png?raw=true" width="18" height="18"/>
+- 1~3金幣
 - 16顆風彈
 - 8顆終界珍珠
 - 飛濺迅捷藥水II
