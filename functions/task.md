@@ -4,7 +4,7 @@
 
 ## 任務介紹
 
-貓芽內最主要獲得貓幣和積分點的方法  
+貓芽內最主要獲得![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)和![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)的方法  
 任務每日00:00(UTC+8)刷新  
 一般玩家每日2個任務，月卡玩家每日3個任務，可能刷到重複的任務
 
@@ -12,15 +12,15 @@
 
 |任務名稱|任務獎勵|
 |:---:|:---:|
-|完成休閒跑酷|30貓幣+120積分點|
-|完成方舟生存|40貓幣+160積分點|
-|遊玩空降戰域|10貓幣+40積分點|
-|遊玩空降戰域並排名於前半段|20貓幣+80積分點|
-|遊玩怪物浪潮|10貓幣+40積分點|
-|遊玩怪物浪潮並擊殺boss|20貓幣+80積分點|
-|遊玩魔幻之塔|10貓幣+40積分點|
-|公共頻道聊天|5貓幣+20積分點|
-|線上累計時長|5貓幣+20積分點|
+|完成休閒跑酷|30![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+120![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|完成方舟生存|40![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+160![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|遊玩空降戰域|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|遊玩空降戰域並排名於前半段|20![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+80![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|遊玩怪物浪潮|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|遊玩怪物浪潮並擊殺boss|20![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+80![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|遊玩魔幻之塔|10![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+40![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|公共頻道聊天|5![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+20![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
+|線上累計時長|5![currency](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/currency.png?raw=true)+20![rank](https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/rank.png?raw=true)|
 
 ## 更新紀錄
 

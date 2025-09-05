@@ -12,6 +12,6 @@
 伺服器IP: catbud.net  
 Discord連接: <https://discord.gg/catbud>
 
-## 預計製作
+## 聲明
 
-- 特附
+本Wiki使用圖片均來自[貓芽伺服器](https://discord.gg/catbud)及[CatBudMC的GitHub](https://github.com/CatBudMC)
