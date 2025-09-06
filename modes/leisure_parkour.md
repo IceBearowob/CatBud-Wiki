@@ -9,7 +9,8 @@
 
 ## 模式介紹
 
-在地圖內跑酷並尋找撤離點，抵達撤離點就通關
+在地圖內跑酷並尋找撤離點，抵達撤離點就通關  
+如果卡住或者不想跑可以用/parkour quit離開
 
 ### 地圖
 
@@ -20,7 +21,13 @@
 - 天空遺跡
 - 石柱簇
 
-每次進入休閒跑酷時，會隨機選擇其中1張地圖來開始
+每次進入休閒跑酷時，會隨機選擇其中1張地圖開始
+
+### 位置記錄
+
+使用道具"紀錄當前位置"<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/menu/parkour/save.png?raw=true" width="25" height="25"/>可以記錄你當下的位置  
+使用道具"返回記錄位置"<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/menu/parkour/location.png?raw=true" width="25" height="25"/>可以回到該位置  
+位置紀錄沒有上限，但最多只會顯示最近紀錄的6個存檔點
 
 ## 其他
 

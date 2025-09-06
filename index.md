@@ -20,3 +20,10 @@
 |:---:|
 |[敲裝資訊-特附細節篇](./guides/anvil_enchbook.md)|
 |[傳點列表](./guides/to_list.md)|
+
+## 功能
+
+|功能名稱|
+|:---:|
+|[任務](./functions/task.md)|
+|[上架/sale](./functions/sale.md)|

@@ -11,5 +11,6 @@
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/mob/steve.png?raw=true" width="18" height="18"/>
 <!--warning-->
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/warning.png?raw=true" width="18" height="18"/>
-<!--貓幣-->
+<!--coin_of_anniversary-->
+<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/custom/coin_of_anniversary.png?raw=true" width="18" height="18"/>
 <!-- markdownlint-disable-file MD033 MD045 MD041 -->  
