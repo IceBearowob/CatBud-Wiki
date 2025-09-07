@@ -17,8 +17,6 @@
 
 每個人會拿到與排位點數相關的金幣數量<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/custom/coin_of_king.png?raw=true" width="25" height="25"/>  
 受到傷害會掉落 `(身上當前金幣數量的1%)+0~3` 個金幣  
-*註:傷害不包括虛空傷害
-
 結算時，身上剩餘最多金幣的人獲勝!
 
 ### 遊戲流程
@@ -30,6 +28,7 @@
 1. 從自身爆出來的金幣是吸不回去的，但可以吸其他人爆的
 2. 結束時會廣播通知所有人冠軍是誰(汗顏)
 3. 開始時間為晚上9:45
+4. 虛空傷害不會爆金幣
 
 ## 更新紀錄
 
