@@ -13,8 +13,7 @@
 
 ## 模式介紹
 
-所有玩家在一張地圖內，有20秒的準備時間可以觀察地形，然後在初始點出發  
-你要做的就是在5分鐘內盡可能開驚喜盒<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/block/custom/surprise_box.png?raw=true" width="25" height="25"/>，裡面可能會有...
+地圖內會散布非常多的驚喜盒<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/block/custom/surprise_box.png?raw=true" width="25" height="25"/>，你要做的就是在5分鐘內盡可能右鍵打開它，裡面可能會有...
 
 - 1~3金幣
 - 16顆風彈
@@ -24,9 +23,13 @@
 - 飛濺跳躍藥水II
 
 如果因故死亡會被傳送回初始點，不會噴裝  
-時間到並結算後會將你所獲得的金幣變成貓幣，並額外發放月卡1天
+結算後會將你所獲得的金幣變成貓幣，並額外發放月卡1天
 
-## 其他
+### 遊戲流程
+
+20秒觀察準備->倒數5分鐘->結算->10秒後解散
+
+## 小研究
 
 1. 每個玩家頭上會有彩色頭帶
 2. 有可能掉進去跳不出來的坑...
@@ -39,4 +42,5 @@
 |版本|更新內容|
 |:---:|:---:|
 |r5-b24|新模式「周年快樂」|
+|r5-b25|「周年快樂」改為有 5 個分流可選|
 <!-- markdownlint-disable-file MD033 MD045 -->  

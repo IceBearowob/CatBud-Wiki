@@ -29,7 +29,7 @@
 使用道具"返回記錄位置"<img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/menu/parkour/location.png?raw=true" width="25" height="25"/>可以回到該位置  
 位置紀錄沒有上限，但最多只會顯示最近紀錄的6個存檔點
 
-## 其他
+## 小研究
 
 1. 有計時器，精確到秒(遠離出生點4格以上才開始計時)
 2. 完成跑酷會廣播通知，如果不想看到可以在/config暫時屏蔽廣播通知
