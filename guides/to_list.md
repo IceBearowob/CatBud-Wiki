@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/9/5
+> 最後更新日期:2025/9/8
 
 ### 公共設施
 
@@ -12,12 +12,11 @@
 |:---:|:---:|
 |/to by limisi|掛機用小黑搬西瓜塔|
 |/to by Darlingg02|公共眼淚塔|
-|/to by Deepblue2003|Pure公共交易所|
+|/to by Deepblue2003|Pure公共村民交易所|
 |/to by xiao\_7_|公共豬人塔|
-|/to by Ying1022u|Pure村民交易所|
+|/to by Ying1022u|Pure公共村民交易所|
 |/to by Eason03|03安德塔|
-|/to by WuNight_0310|03安德塔|
-|/to by Eagle500kgPure|Pure村民交易所|
+|/to by Eagle500kgPure|Pure公共村民交易所|
 |/to by DaiDai_66|Pure安德塔|
 |/to by DanielAuA|火藥塔AuA|
 |/to by samvincent4k|無磚生怪塔|
@@ -26,14 +25,12 @@
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
-|/to by whitebear520|蒼白花園傳點|
-|/to by Lulu_8888|沙漠|
 |/to by weiwei0829|終界傳送門|
 |/to by hohomcraft|終界傳送門|
 |/to by ianchen0064|地獄堡壘|
 |/to by xuann0805|世界出生點|
 |/to by NiceDumpling|平原...?|
-|/to by Big_Gacha|沙漠|
+|/to by Luck_Maple|深淵...?|
 
 ### 社交/活動/展覽
 
@@ -45,22 +42,23 @@
 |/to by hhklly|PVP活動場|
 |/to by TMO_friedchicken|PVP活動場|
 |/to by _Coffee_Fubuki|FBK王國|
+|/to by BlueRiver1214|浴衣貓貓|
+|/to by Lulu_8888|浴衣貓貓|
+|/to by YiLin_n|喵喵喵喵喵喵喵x10頁|
 
 ### 交易/抽獎
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
-|/to by Bless_Y|小李抽獎機|
-|/to by BlueRiver1214|神樹市集|
 |/to by NekoFumi_YuYu|mikki抽獎機(由幽幽代理)|
 |/to by Ghost_Sister|地圖繪租借場|
+|/to by MatchMan_qwq|賭場|
 
 ### 其他
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
 |/to by SYLJ0422|杏仁3D圖場|
-|/to by Henry86420|龍封家(有15+地圖繪)|
 |/to by Ochite_Miro|森息家|
 |/to by SunaChen|燕麥家|
 |/to by Maxender55421|安德家|
