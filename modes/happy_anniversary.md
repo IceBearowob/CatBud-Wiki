@@ -9,7 +9,7 @@
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/mob/steve.png?raw=true" width="18" height="18"/> 最多4人同時參加  
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/warning.png?raw=true" width="18" height="18"/> 僅在10/02周年慶當周舉辦  
 
-<img src="https://cdn.discordapp.com/attachments/1278590591734779904/1413320997519495310/aaaaaaaaaaaaaaaaaaa.png?ex=68bb8140&is=68ba2fc0&hm=8540e88800988f8030defb3f8554c6c1a40153c0f7a069f527c6c70de4f5545b&" width="558" height="153"/>
+<img src="./mode_picture/happy_anniversary.png" width="558" height="153"/>
 
 ## 模式介紹
 

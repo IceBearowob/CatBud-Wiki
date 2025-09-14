@@ -5,7 +5,7 @@
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/check.png?raw=true" width="18" height="18"/> 結束後會將所有資料恢復成參加前的狀態  
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/mob/steve.png?raw=true" width="18" height="18"/> 最多4人同時闖關
 
-<img src="https://cdn.discordapp.com/attachments/1278590591734779904/1393730483522633869/a.png?ex=68bb6d29&is=68ba1ba9&hm=caee4db74506344828e7aa2f01b5315e28a17d892284e6d4b39da3cbc00d9b08&" width="558" height="153"/>
+<img src="./mode_picture/leisure_parkour.png" width="558" height="153"/>
 
 ## 模式介紹
 

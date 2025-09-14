@@ -3,7 +3,7 @@
 ## /sale [amount]
 
 取代箱子商店的好方法!  
-<img src="https://cdn.discordapp.com/attachments/1278590591734779904/1392534414302380062/image.png?ex=68bc593c&is=68bb07bc&hm=e7af385e7c69f0c98a98561e1984ebec6a2513ddd655de2bcfd9fb59c6453c11&" width=400>
+<img src="./function_picture/sale.png" width=400>
 
 ## 使用方法
 
