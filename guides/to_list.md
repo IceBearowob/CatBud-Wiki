@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/9/20
+> 最後更新日期:2025/10/1
 
 ### 公共設施
 
@@ -18,6 +18,8 @@
 |/to by mailsoncraft|Pure安德塔|
 |/to by SYLJ0422|03安德塔|
 |/to by Eason03|03安德塔|
+|/to by dinocheng|界伏殼塔|
+|/to by Lishiya_0421|界伏殼塔|
 
 ### 地形/結構
 
@@ -64,9 +66,14 @@
 |/to by cake_apostle|♂神祕的地方♂|
 |/to by mltw_idk|UR坑|
 |/to by littleZombie_|喵方旅團設施群|
-|/to by Lishiya_0421|界伏殼塔|
 |/to by NiceDumpling|奇怪的蜂蜜小屋|
 |/to by GuraaaA8787|女巫塔(?|
 |/to by cloud_7508|史萊姆按摩館(?)|
 |/to by JoeWonderfuly|<-他家|
 |/to by Joker_Lotus|半自動收圖機|
+|/to by GiddyStone96043|<-他家|
+|/to by jkioln666|<-他家|
+|/to by iopo12323|某工業區(有奇怪機器)|
+|/to by Miller_704|天空城|
+|/to by Louis1230qwq|<-他家|
+|/to by wowoepepp2021|<-他家|
