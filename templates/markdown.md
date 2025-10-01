@@ -15,4 +15,3 @@
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/item/custom/coin_of_anniversary.png?raw=true" width="18" height="18"/>
 <!--clock-->
 <img src="https://github.com/CatBudMC/ResourcePack/blob/master/assets/minecraft/textures/emoji/clock.png?raw=true" width="18" height="18"/>
-<!-- markdownlint-disable-file MD033 MD045 MD041 -->  

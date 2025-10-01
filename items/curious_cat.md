@@ -26,5 +26,3 @@
     <tr><td>在地化鍵名</td><td>style.curious_cat.[type]</td></tr>
     <tr><td>物品基礎</td><td>minecraft:clock</td></tr>
 </table>
-
-<!-- markdownlint-disable-file MD033-->
