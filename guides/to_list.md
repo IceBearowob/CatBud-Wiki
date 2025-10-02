@@ -12,7 +12,7 @@
 |:---:|:---:|
 |/to by limisi|掛機用小黑搬西瓜塔|
 |/to by Deepblue2003|Pure公共村民交易所|
-|/to by xiao\_7_|公共豬人塔|
+|/to by Xiao\_7_|公共豬人塔|
 |/to by samvincent4k|無磚生怪塔|
 |/to by MC_penguin_Ray|公共豬人塔|
 |/to by mailsoncraft|Pure安德塔|
