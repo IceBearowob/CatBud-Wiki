@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/11/4
+> 最後更新日期:2025/11/5
 
 ### 公共設施
 
@@ -19,6 +19,7 @@
 |/to by Maki_1007|Pure村民交易所|
 |/to by DD0303Win|Yi豬人塔|
 |/to by GuraaaA8787|女巫塔|
+|/to by whiteantPi|蠹魚經驗塔|
 
 ### 地形/結構
 
@@ -44,6 +45,7 @@
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
 |/to by Mikki15625|mikki抽獎機|
+|/to by Ghost_Sister|地圖繪租借場|
 
 ### 其他
 
@@ -55,5 +57,4 @@
 |/to by NiceDumpling|奇怪的蜂蜜小屋|
 |/to by Joker_Lotus|還在建設的抽獎機&商店(?|
 |/to by SYLJ0422|杏仁家樂福(?|
-|/to by Ghost_Sister|不知道什麼奇怪的地方|
 |/to by Big_Gacha|戰場(?|
