@@ -4,7 +4,7 @@
 
 ## 傳點列表
 
-> 最後更新日期:2025/11/5
+> 最後更新日期:2025/11/10
 
 ### 公共設施
 
@@ -39,13 +39,13 @@
 |/to by 7Meow_Yue|婚禮禮堂|
 |/to by XaioWei777|小型地圖繪展覽館|
 |/to by ttd9893|終界休息區|
+|/to by GiddyStone96043|真心話大冒險|
 
 ### 交易/抽獎
 
 |傳點列表(可複製指令)|傳點說明|
 |:---:|:---:|
 |/to by Mikki15625|mikki抽獎機|
-|/to by Ghost_Sister|地圖繪租借場|
 
 ### 其他
 
@@ -58,3 +58,6 @@
 |/to by Joker_Lotus|還在建設的抽獎機&商店(?|
 |/to by SYLJ0422|杏仁家樂福(?|
 |/to by Big_Gacha|戰場(?|
+|/to by Lazy0219|水豚橘家|
+|/to by Tom87906|私人豬人塔|
+|/to by XaioWei777|博物館(?|
