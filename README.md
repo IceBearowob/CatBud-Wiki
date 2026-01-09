@@ -1,6 +1,7 @@
 # CatBud Wiki
 
-貓芽唯一的非官方wiki
+貓芽唯一的非官方wiki  
+還在持續撰寫中
 
 ## [目錄(點我)](index.md)
 
@@ -13,7 +14,7 @@ Java 版 1.21.6 ~ 1.21.11 登入．推薦 1.21.11
 - cloudflare.catbud.net (當前預設線路)  
 - tcpshield.catbud.net
 
-### "萌新手冊": 
+### 萌新手冊: 
 [由BlueRiver1214製作](https://drive.google.com/file/d/1fobEcg0DI7lwbmtKBDyWiLmoyVcFZb3s/view)  
 ### 群組連接: 
 <https://discord.gg/catbud>
