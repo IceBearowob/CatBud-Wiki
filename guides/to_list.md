@@ -22,6 +22,7 @@
 |傳點列表|傳點說明|
 |:---:|:---:|
 |/to by weiwei0829|終界傳送門|
+|/to by kiki1225|終界傳送門|
 |/to by SYLJ0422|終界本島|
 
 ### 公共社交活動區域
@@ -39,6 +40,7 @@
 |:---:|:---:|
 |/to by Mikki15625|mikki抽獎機|
 |/to by AXOLOTL_LCY|商場(?(建設中)|
+|/to by TangAir|實體商店街|
 
 ### 觀光景點
 
@@ -70,3 +72,4 @@
 |/to by Qing_0525|石磚家...底下的洞|
 |/to by Snake960031|深海守衛塔|
 |/to by SunaChen|燕麥女僕咖啡廳兼藏畫閣|
+|/to by Robrter|豬人塔|
