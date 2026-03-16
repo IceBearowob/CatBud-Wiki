@@ -24,6 +24,7 @@
 |/to by TMO_friedchicken|終界傳送門|
 |/to by weiwei0829|終界傳送門|
 |/to by kiki1225|終界傳送門|
+|/to by Wewe0705|沙漠|
 
 ### 公共社交活動區域
 
@@ -75,6 +76,7 @@
 |/to by SkyBears|某個正在蓋的豬人塔|
 |/to by Salmon1118|虛空圖場|
 |/to by wex0228|wex家|
+|/to by Mindy_0429|耶比家|
 
 ### 月卡失效而消失的傳點
 
