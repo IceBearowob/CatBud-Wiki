@@ -99,6 +99,7 @@
 安全鎖鑰匙可以透過打一次/regen execute得到  
 \*重生時會繞過有領地的地方  
 #### 警告:此行為無法撤銷或中斷
+#### 警告:在測試服使用本指令會造成卡頓
 ## /reboot系列指令
 用來重啟伺服器用的
 ### /reboot enter [fast/fastest/normal/slow/slowest]
