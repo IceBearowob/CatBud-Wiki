@@ -1,6 +1,6 @@
 # CatBud Wiki
 
-貓芽唯一的非官方wiki  
+貓芽非官方wiki  
 還在持續撰寫中
 
 ## [目錄(點我)](index.md)
