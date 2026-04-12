@@ -39,7 +39,7 @@
 - dungeon_0 (地下城)
 ### /room config skip
 跳過進度條，只能在浪潮內使用
-### 天界聖戰
+## 天界聖戰
 ### /room config enter
 強制進入天界
 ### /room config skip
