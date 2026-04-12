@@ -82,3 +82,32 @@
 ### /room config terrain
 強制進入特定地圖，目前只有一張地圖
 - castle_0
+## /regen系列指令
+用於重生區塊用的
+### /regen plan area [add/remove] [custom/nether/normal/the_end] [X1] [Z1] [X2] [Z2]
+將特定世界從(X1,Z1)到(X2,Z2)範圍的所有區塊加入/移除重生計畫  
+加入重生計畫的區塊會顯示"計畫刷新區塊"
+### /regen plan chunk [add/remove] [custom/nether/normal/the_end] [X] [Z]
+將特定世界的(X,Z)區塊座標加入/移除重生計畫  
+加入重生計畫的區塊會顯示"計畫刷新區塊"
+### /regen plan clear
+清除所有要重生的區塊
+### /regen plan size
+查詢要重生的區塊數量
+### /regen execute [解除安全鎖鑰匙]
+打了之後就會開始重生區塊  
+安全鎖鑰匙可以透過打一次/regen execute得到  
+\*重生時會繞過有領地的地方  
+#### 警告:此行為無法撤銷或中斷
+## /reboot系列指令
+用來重啟伺服器用的
+### /reboot enter [fast/fastest/normal/slow/slowest]
+開始重啟倒數，如果有指定速度倒數時間會不同
+- fast - 5分鐘
+- fastest - 1分鐘
+- normal - 10分鐘
+- slow - 20分鐘
+- slowest - 30分鐘
+#### 警告:在測試服使用本指令重啟在關閉伺服器會不會自動開啟伺服器，需要系統貓手動開啟
+### /reboot cancel
+取消重啟倒數
