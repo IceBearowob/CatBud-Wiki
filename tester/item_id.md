@@ -21,7 +21,6 @@
 ### 裝備
 |物品名稱|物品ID|
 |:---:|:---|
-|惡魔翅膀|styles.demon_wings|
 |女僕腳套（貓耳）|styles.maid_outfit.cat_ears.boots|
 |女僕身套（貓耳）|styles.maid_outfit.cat_ears.chest|
 |女僕頭套（貓耳）|styles.maid_outfit.cat_ears.helmet|
@@ -79,6 +78,7 @@
 |貓咪頭套（Jellie）|styles.cat_costume.jellie.helmet|
 |貓咪腿套（Jellie）|styles.cat_costume.jellie.leggings|
 |天使翅膀|styles.angel_wings|
+|惡魔翅膀|styles.demon_wings|
 ### 工具
 |物品名稱|物品ID|
 |:---:|:---|
@@ -171,22 +171,6 @@
 |鹿角（紅色）|styles.deer_horn.red|
 |鹿角（白色）|styles.deer_horn.white|
 |鹿角（黃色）|styles.deer_horn.yellow|
-|好奇貓（花色）|styles.curious_cat.baby_calico|
-|好奇貓（白）|styles.curious_cat.baby_white|
-|好奇貓（黑）|styles.curious_cat.black|
-|好奇貓（英國短毛）|styles.curious_cat.british_shorthair|
-|好奇貓（Jellie）|styles.curious_cat.jellie|
-|好奇貓（波斯）|styles.curious_cat.persian|
-|好奇貓（布偶）|styles.curious_cat.ragdoll|
-|好奇貓（紅虎斑）|styles.curious_cat.red|
-|好奇貓（暹羅）|styles.curious_cat.siamese|
-|好奇貓（虎斑）|styles.curious_cat.tabby|
-|好奇貓（西服）|styles.curious_cat.tuxedo|
-|聖誕帽|styles.decoration_hats.christmas_hat|
-|聖誕樹|styles.decoration_hats.christmas_tree|
-|煙火球|styles.decoration_hats.firework_star|
-|頭紙袋|styles.decoration_hats.paper_bag|
-|女巫帽|styles.decoration_hats.witch_hat|
 |貓耳（黑色）|styles.cat_ear.black|
 |貓耳（藍色）|styles.cat_ear.blue|
 |貓耳（棕色）|styles.cat_ear.brown|
@@ -219,8 +203,60 @@
 |天使環（紅色）|styles.angel_circle.red|
 |天使環（白色）|styles.angel_circle.white|
 |天使環（黃色）|styles.angel_circle.yellow|
+### 空降裝飾物
+|物品名稱|物品ID|
+|:---:|:---|
+|好奇貓（花色）|styles.curious_cat.baby_calico|
+|好奇貓（白）|styles.curious_cat.baby_white|
+|好奇貓（黑）|styles.curious_cat.black|
+|好奇貓（英國短毛）|styles.curious_cat.british_shorthair|
+|好奇貓（Jellie）|styles.curious_cat.jellie|
+|好奇貓（波斯）|styles.curious_cat.persian|
+|好奇貓（布偶）|styles.curious_cat.ragdoll|
+|好奇貓（紅虎斑）|styles.curious_cat.red|
+|好奇貓（暹羅）|styles.curious_cat.siamese|
+|好奇貓（虎斑）|styles.curious_cat.tabby|
+|好奇貓（西服）|styles.curious_cat.tuxedo|
+|聖誕帽|styles.decoration_hats.christmas_hat|
+|聖誕樹|styles.decoration_hats.christmas_tree|
+|煙火球|styles.decoration_hats.firework_star|
+|頭紙袋|styles.decoration_hats.paper_bag|
+|女巫帽|styles.decoration_hats.witch_hat|
 ### 賽季工具/武器
-這部分略過 反正都是什麼season.[賽季].[工具/武器]
+|物品名稱|物品ID|
+|:---:|:---|
+|無名的鏟 (第1賽季限定)|season.1.shovel|
+|無名的劍 (第1賽季限定)|season.1.sword|
+|無名的斧 (第2賽季限定)|season.2.axe|
+|無名的鎬 (第2賽季限定)|season.2.pickaxe|
+|無名的鋤 (第3賽季限定)|season.3.hoe|
+|無名的劍 (第3賽季限定)|season.3.sword|
+|無名的斧 (第4賽季限定)|season.4.axe|
+|無名的鋤 (第4賽季限定)|season.4.hoe|
+|無名的打火石 (第5賽季限定)|season.5.flint_and_steel|
+|無名的鎬 (第5賽季限定)|season.5.pickaxe|
+|無名的斧 (第6賽季限定)|season.6.axe|
+|無名的劍 (第6賽季限定)|season.6.sword|
+|無名的斧 (第7賽季限定)|season.7.axe|
+|無名的鎬 (第7賽季限定)|season.7.pickaxe|
+|無名的斧 (第8賽季限定)|season.8.axe|
+|無名的劍 (第8賽季限定)|season.8.sword|
+|無名的鏟 (第9賽季限定)|season.9.shovel|
+|無名的劍 (第9賽季限定)|season.9.sword|
+|無名的打火石 (第10賽季限定)|season.10.flint_and_steel|
+|無名的鎬 (第10賽季限定)|season.10.pickaxe|
+|無名的斧 (第11賽季限定)|season.11.axe|
+|無名的劍 (第11賽季限定)|season.11.sword|
+|無名的鋤 (第12賽季限定)|season.12.hoe|
+|無名的劍 (第12賽季限定)|season.12.sword|
+|無名的鏟 (第13賽季限定)|season.13.shovel|
+|無名的劍 (第13賽季限定)|season.13.sword|
+|無名的斧 (第14賽季限定)|season.14.axe|
+|無名的劍 (第14賽季限定)|season.14.sword|
+|無名的斧 (第15賽季限定)|season.15.axe|
+|無名的鎬 (第15賽季限定)|season.15.pickaxe|
+|無名的斧 (第16賽季限定)|season.16.axe|
+|無名的劍 (第16賽季限定)|season.16.sword|
 ### 能力卡系列
 |物品名稱|物品ID|
 |:---:|:---|
@@ -242,17 +278,20 @@
 |伏守者能力卡|mimicry_card.warden|
 |凋零怪能力卡|mimicry_card.wither|
 |凋零骷髏能力卡|mimicry_card.wither_skeleton|
-### 其他
+### 副本限定
 |物品名稱|物品ID|
 |:---:|:---|
 |彩色頭帶|colored_headband|
 |損壞的附魔拆解台|damaged_enchantment_extraction_table|
 |損壞的驚喜盒|damaged_surprise_box|
 |附魔拆解台|enchantment_extraction_table|
+|驚喜盒|surprise_box|
+### 其他
+|物品名稱|物品ID|
+|:---:|:---|
 |蘑菇炳|mushroom_stem|
 |紅色蘑菇方塊|red_mushroom_block|
 |棕色蘑菇方塊|brown_mushroom_block|
 |空島水晶碎片|sky_island_crystal_fragment|
 |未激活的空島水晶|unactivated_sky_island_crystal|
-|驚喜盒|surprise_box|
 ### [點我回到手冊](./guide.md)
